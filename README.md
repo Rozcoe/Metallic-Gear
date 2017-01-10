@@ -13,4 +13,7 @@ patrol patterns.
 When spotted, the game will simply exit and must be opened again (a limitation of my skill in 2013).
 To make this less painful, all cutscenes are skippable by pressing any key.
 
-Note: although the sound effects and dialogue are surely cringey now, I assure you they were funny at the time.
+Notes: 
+Although the sound effects and dialogue are definitely cringey now, I assure you they were funny at the time.
+Kcirtap is Patrick backwards.
+Turing is horrible.
