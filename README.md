@@ -17,3 +17,5 @@ Notes:
 Although the sound effects and dialogue are definitely cringey now, I assure you they were funny at the time.
 Kcirtap is Patrick backwards.
 Turing is horrible.
+
+Please do not take this as a representation of my current programming abilities. This was made in 2013 when I had little to no understanding of proper coding practices.
